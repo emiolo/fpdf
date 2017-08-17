@@ -1,0 +1,15 @@
+{
+    "name": "emiolo/fpdf",
+    "description": "From http://www.fpdf.org",
+    "type": "library",
+    "authors": [
+        {
+            "name": "eMiolo.com",
+            "email": "suporte@emiolo.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "minimum-stability": "dev"
+}
